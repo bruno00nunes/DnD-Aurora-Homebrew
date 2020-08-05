@@ -4,7 +4,7 @@
 		<name>Homebrew</name>
 		<description>Homebrew content to expand your gaming elements.</description>
 		<author url="http://dnd.wizards.com">Zaedin</author>
-		<update version="0.4.3">
+		<update version="0.1">
 			<file name="homebrew.index" url="https://raw.githubusercontent.com/bruno00nunes/DnD-Aurora-Homebrew/master/homebrew.index" />
 		</update>
 	</info>
