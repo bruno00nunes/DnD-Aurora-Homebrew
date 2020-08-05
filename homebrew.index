@@ -9,6 +9,6 @@
 		</update>
 	</info>
 	<files>
-		<file name="tiefling-variant.xml" url="https://cld.pt/dl/download/1dcd114e-054e-4391-8490-caab25618207/variant-tiefling.xml" />
+		<file name="tiefling-variant.xml" url="https://raw.githubusercontent.com/bruno00nunes/DnD-Aurora-Homebrew/master/homebrew/variant-tiefling.xml" />
 	</files>
 </index>
