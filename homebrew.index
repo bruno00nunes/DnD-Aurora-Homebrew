@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index>
+	<info>
+		<name>Homebrew</name>
+		<description>Homebrew content to expand your gaming elements.</description>
+		<author url="http://dnd.wizards.com">Zaedin</author>
+		<update version="0.4.3">
+			<file name="homebrew.index" url="https://cld.pt/dl/download/d1bba88b-177f-44e3-9b0d-23a7d905b003/homebrew.index" />
+		</update>
+	</info>
+	<files>
+		<file name="tiefling-variant.xml" url="https://cld.pt/dl/download/1dcd114e-054e-4391-8490-caab25618207/variant-tiefling.xml" />
+	</files>
+</index>
