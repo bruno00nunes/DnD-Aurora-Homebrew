@@ -5,7 +5,7 @@
 		<description>Homebrew content to expand your gaming elements.</description>
 		<author url="http://dnd.wizards.com">Zaedin</author>
 		<update version="0.4.3">
-			<file name="homebrew.index" url="https://cld.pt/dl/download/d1bba88b-177f-44e3-9b0d-23a7d905b003/homebrew.index" />
+			<file name="homebrew.index" url="https://raw.githubusercontent.com/bruno00nunes/DnD-Aurora-Homebrew/master/homebrew.index" />
 		</update>
 	</info>
 	<files>
